@@ -1,2 +1,1 @@
-# omshantifoundation.github.io
-Website
+# [Om Shanti Foundation](https://omshantifoundation.org) 
