@@ -44,7 +44,7 @@
           <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="#" class="nav-link">About</a></li>
           <!-- <li class="nav-item"><a href="#" class="nav-link">Causes</a></li> -->
-          <li class="nav-item"><a href="#" class="nav-link">Donate</a></li>
+          <li class="nav-item"><a href="https://rzp.io/l/omshantifoundation" class="nav-link">Donate</a></li>
           <li class="nav-item"><a href="event.html" class="nav-link">Events</a></li>
           <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
         </ul>
@@ -72,8 +72,12 @@
             <div class="block-18 color-1 align-items-stretch">
               <div class="text">
               	<span>Serving The Community Since</span>
-                <strong class="number" data-number="31">0</strong>
-                <span>Days in India</span>
+                <strong class="number" data-number="0">0</strong>
+		<script>
+			var daysDifference = Math.ceil((new Date().getTime() - new Date("2024-01-01").getTime()) / (1000 * 60 * 60 * 24))
+			document.querySelector('.number').setAttribute('data-number', daysDifference);
+		</script>
+                <span>Days in India</span> 
               </div>
             </div>
           </div>
@@ -382,7 +386,7 @@
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Home</a></li>
                 <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Donate</a></li>
+                <li><a href="https://rzp.io/l/omshantifoundation" class="py-2 d-block">Donate</a></li>
                 <li><a href="#" class="py-2 d-block">Causes</a></li>
                 <li><a href="event.html" class="py-2 d-block">Events</a></li>
               </ul>
