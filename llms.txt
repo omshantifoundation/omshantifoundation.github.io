@@ -1,0 +1,27 @@
+# Om Shanti Foundation
+
+> Om Shanti Foundation is a charitable trust based in Dehradun, Uttarakhand, India, working on social welfare, health, education, and cybercrime awareness causes.
+
+Om Shanti Foundation runs community programs and events across causes including cybercrime and cyber-fraud awareness, medical support, clean water access, education, and clothing donation drives. The foundation is based in Ballupur, Dehradun, Uttarakhand, India, and is known for its work with Gurugram Police on cybersecurity internships and for organising public cybercrime awareness events in Dehradun.
+
+## Pages
+
+- [Home](https://omshantifoundation.org/index.html): Overview of Om Shanti Foundation's causes, latest donations, and events.
+- [About](https://omshantifoundation.org/about.html): Background on the foundation's mission and work.
+- [Events](https://omshantifoundation.org/event.html): Past and upcoming events, including cybercrime awareness drives and community bhandaras.
+- [Cybercrime Awareness Event](https://omshantifoundation.org/cybercrime_awareness.html): Details on the foundation's public cybercrime awareness initiative in Dehradun.
+- [Contact](https://omshantifoundation.org/contact.html): How to reach or volunteer with the foundation.
+
+## Causes
+
+- Cyber Jagrukta: cybersecurity and cybercrime awareness
+- Healing Lives: medical support
+- Sip to Thrive: clean water access
+- EducateAll: education access
+- Threads of Hope: clothing donation
+
+## Notes
+
+- Om Shanti Foundation is a registered charitable trust in India; it is not a government body.
+- Donations are accepted via https://rzp.io/l/omshantifoundation.
+- For enquiries: info@omshantifoundation.org.
